@@ -5,7 +5,8 @@
  * @b: second int
  * Return: total of two int
  */
-int mul(int a, int b)
+int mul(int a, int b) 
 {
 return (a * b);
 }
+

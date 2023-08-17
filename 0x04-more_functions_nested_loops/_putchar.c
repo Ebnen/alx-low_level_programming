@@ -1,11 +1,12 @@
 #include "main.h"
 #include <unistd.h>
 /**
- * main - check the code.
+ * _putchar - writes the character c to stdout
+ * @c : the character to print.
  *
  * Return: Always 0.
  */
 int _putchar(char c)
 {
-return (write(1,&C,1));
+return (write(1, &C, 1));
 }
