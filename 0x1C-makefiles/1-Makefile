@@ -1,5 +1,4 @@
 # use some variables to make file
-
 CC = gcc
 SRC = main.c school.c
 
