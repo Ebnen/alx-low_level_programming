@@ -1,4 +1,3 @@
 # crete our first make file 
-
-all: main.c school.c
+all: 
     gcc main.c school.c -o school
